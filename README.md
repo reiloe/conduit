@@ -50,6 +50,10 @@ git submodule update --init --recursive
 cp example.env .env
 ```
 
+> [!CAUTION]  
+> The values in the example.env file are for testing purposes only. 
+> You should change the values, especially keys and passwords.
+
 - Run the project
 
 ```bash
