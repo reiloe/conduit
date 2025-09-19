@@ -5,6 +5,9 @@ services:
     build:
       context: ./conduit-frontend
       dockerfile: Dockerfile
+      args:
+        SERVERIP: ${SERVERIP}
+        BACKENDPORT: ${BACKEND_PORT}
     restart: on-failure
     env_file: ".env"
     ports:
