@@ -61,7 +61,7 @@ After a short time you can browse to the app by typing in the address localhost:
 ## Usage
 
 If you want to make changes, such as the username or password for the admin user of the Django panel, you can do so in the .env file.
-There you will also find the port settings for the frontend/backend, in case you need to change them because the default ports (8282 and 8000) are already in use on your computer.  
+There you will also find the port settings for the frontend/backend, in case you need to change them if the default ports (8282 and 8000) are already in use on your computer.  
 
 To make changes work:
 
