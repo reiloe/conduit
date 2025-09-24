@@ -20,11 +20,6 @@ The goal of this project is to containerize the Conduit application, consisting 
 
 - Open a terminal
 
-- Navigate to a folder of choice
-
-```bash
-cd my/test/folder
-```
 
 - Clone the project
 
